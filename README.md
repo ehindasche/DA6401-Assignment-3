@@ -64,3 +64,8 @@ python "src/heatmaps.py"
 ```bash
 python "src/visualizations.py"
 ```
+---
+- Heatmaps folder contains the heatmap images for 9 words (showing how attention is spread across different characters)
+- Visualizations folder contains the images of the 4 words for which we demonstrated the sliding animation of attention weights over different characters
+- predictions_vanilla.csv contains test set predictions for vanilla model
+- predictions_attention.csv containts test set predictions for attention based model
