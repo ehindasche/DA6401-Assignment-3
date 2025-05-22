@@ -65,6 +65,7 @@ python "src/heatmaps.py"
 ```bash
 python "src/visualizations.py"
 ```
+drive link for sliding visualizations: https://drive.google.com/file/d/1gHWrV1Jd-N7d8MG4QIZWPnx_EV-apg33/view?usp=sharing
 ---
 - Heatmaps folder contains the heatmap images for 9 words (showing how attention is spread across different characters)
 - Visualizations folder contains the images of the 4 words for which we demonstrated the sliding animation of attention weights over different characters
