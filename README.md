@@ -26,10 +26,11 @@ This repository contains the implementation of a neural sequence-to-sequence tra
 
 ```
 dl-assignment-3/
-├── transliteration_model.py     # Main training and evaluation script
 ├── visualizations/              # contains animation images
 ├── src/                         # py files
 ├── heatmaps/                    # contains saved heatmaps
+├── predictions_vanilla.csv      # vanilla rnn predictions on test set
+├── predictions_attention.csv    # attention based rnn predictions on test set                
 └── dl-assignment-3.ipynb        # Jupyter Notebook version
 ```
 ---
