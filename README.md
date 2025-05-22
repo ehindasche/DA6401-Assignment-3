@@ -32,3 +32,35 @@ dl-assignment-3/
 ├── heatmaps/                    # contains saved heatmaps
 └── dl-assignment-3.ipynb        # Jupyter Notebook version
 ```
+---
+## How to run?
+
+- First run the vanilla_RNN.py through bash.
+```bash
+python "src/vanilla_RNN.py"
+```
+This will give us the sweeep results over the Vanilla RNN model.
+
+- Then run the vanilla_evaluation_test_set.py.
+```bash
+python "src/vanilla_evaluation_test_set.py"
+```
+
+- Now run the attention_RNN.py
+
+```bash
+python "src/attention_RNN.py"
+```
+
+- Now run attention_RNN_sweep.py
+```bash
+python "src/attention_RNN_sweep.py"
+```
+- Now run heatmaps.py
+```bash
+python "src/heatmaps.py"
+```
+- Now run visualizations.py
+```bash
+python "src/visualizations.py"
+```
